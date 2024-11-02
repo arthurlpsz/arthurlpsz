@@ -1,6 +1,10 @@
-<h2 align="left">🌌 Bem vindo ao meu Github!</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=22&pause=1000&color=78C5DC&center=true&vCenter=true&random=false&width=324&lines=%E2%8A%B9+Bem+vindo+ao+meu+Github!+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-###
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlpsz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="160em" alt="languages graph"  />
