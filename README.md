@@ -1,15 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=300&size=22&pause=1000&color=78C5DC&center=true&vCenter=true&random=false&width=324&lines=%E2%8A%B9+Bem+vindo+ao+meu+Github!+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-#
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlpsz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="160em" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurlpsz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="160em" alt="stats graph"  />
-</div>
+<h1>Bem vindo ao meu Github! 🌟</h1>
 
 ###
 
@@ -46,6 +35,14 @@
 ###
 
 <br clear="both">
+
+<a href="https://github.com/arthurlpsz/github-readme-stats">
+  <img align="center" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=Hali)
+" />
+</a>
+<a href="https://github.com/arthurlpsz/arthurlpsz.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurlpsz&repo=arthurlpsz.github.io&theme=hali" />
+</a>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurlpsz/arthurlpsz/output/github-contribution-grid-snake-dark.svg">
