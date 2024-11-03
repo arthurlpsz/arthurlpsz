@@ -36,13 +36,11 @@
 
 <br clear="both">
 
-<a href="https://github.com/arthurlpsz/github-readme-stats">
-  <img align="center" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=Hali)
-" />
-</a>
-<a href="https://github.com/arthurlpsz/arthurlpsz.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurlpsz&repo=arthurlpsz.github.io&theme=hali" />
-</a>
+<div align="center">
+  <a href="https://github.com/arthurlpsz">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlpsz&layout=compact&langs_count=7&theme=holi"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlpsz&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurlpsz/arthurlpsz/output/github-contribution-grid-snake-dark.svg">
