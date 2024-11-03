@@ -4,11 +4,11 @@
 <img align="right" width="250" src="https://64.media.tumblr.com/90f6cdcbc51c53fa4ca7294da96fc3f8/tumblr_pios19KpQC1ufq8wko1_1280.gif"/>
 </div>
 
-- Tenho 18 anos e estou atualmente cursando **Desenvolvimento de Software Multiplataforma** na FATEC.
+- Tenho 18 anos e estou cursando **Desenvolvimento de Software Multiplataforma** na FATEC.
 
 - Me interesso bastante sobre as áreas de **Banco de Dados**, **Desenvolvimento Web** e **Design**.
 
-- Busco aprimorar meus conhecimentos na tecnologia, seja pesquisando na internet ou aprendendo na faculdade!
+- Busco aprimorar mais meus conhecimentos, seja pesquisando na internet ou aprendendo na faculdade!
 
 ## Linguagens:
 
