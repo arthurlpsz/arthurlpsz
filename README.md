@@ -1,7 +1,7 @@
 ## Bem vindo ao meu Github! 🌟
 
 <div>
-<img align="right" width="250" src="https://64.media.tumblr.com/90f6cdcbc51c53fa4ca7294da96fc3f8/tumblr_pios19KpQC1ufq8wko1_1280.gif"/>
+<img align="right" width="220" src="https://64.media.tumblr.com/90f6cdcbc51c53fa4ca7294da96fc3f8/tumblr_pios19KpQC1ufq8wko1_1280.gif"/>
 </div>
 
 - Tenho 18 anos e estou cursando **Desenvolvimento de Software Multiplataforma** na FATEC.
