@@ -4,27 +4,23 @@
 <img align="right" width="220" src="https://64.media.tumblr.com/90f6cdcbc51c53fa4ca7294da96fc3f8/tumblr_pios19KpQC1ufq8wko1_1280.gif"/>
 </div>
 
-- Tenho 18 anos e estou cursando **Desenvolvimento de Software Multiplataforma** na FATEC.
+- Tenho 19 anos e estou cursando **Desenvolvimento de Software Multiplataforma** na FATEC.
 
 - Me interesso bastante sobre as áreas de **Banco de Dados**, **Desenvolvimento Web** e **Design**.
 
-- Busco aprimorar mais meus conhecimentos, seja pesquisando na internet ou aprendendo na faculdade!
+- Busco aprimorar mais meus conhecimentos, seja pesquisando na internet ou estudando na faculdade!
 
 ## Linguagens:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
 
