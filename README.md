@@ -33,6 +33,26 @@
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurlpsz&show_icons=true&theme=holi&include_all_commits=true"/>
 </div>
 
+## Contato & Social
+<div align="center">
+  <a href="mailto:arthurlpsz@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arthurlpsz/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  <a href="https://instagram.com/arthurlpsz" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+  </a>
+</div>
+
+<p align="center">
+  <strong>Email:</strong> arthurlpsz@gmail.com • 
+  <strong>LinkedIn:</strong> /in/arthurlpsz • 
+  <strong>Instagram:</strong> @arthurlpsz
+</p>
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurlpsz/arthurlpsz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurlpsz/arthurlpsz/output/github-contribution-grid-snake-dark.svg">
