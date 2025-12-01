@@ -33,25 +33,20 @@
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurlpsz&show_icons=true&theme=holi&include_all_commits=true"/>
 </div>
 
-## Contato & Social
+## Redes Sociais
 <div align="center">
-  <a href="mailto:arthurlpsz@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  <a href="mailto:arthurlps.santos1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arthurlpsz/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  
+  <a href="https://www.linkedin.com/in/arthurlpsantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/arthurlpsz" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+
+  <a href="https://instagram.com/arthurlpsz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
-<p align="center">
-  <strong>Email:</strong> arthurlpsz@gmail.com • 
-  <strong>LinkedIn:</strong> /in/arthurlpsz • 
-  <strong>Instagram:</strong> @arthurlpsz
-</p>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurlpsz/arthurlpsz/output/github-contribution-grid-snake-dark.svg">
