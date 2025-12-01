@@ -12,24 +12,25 @@
 
 ## Linguagens:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="css3 logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75" alt="mysql logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="75" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" alt="bootstrap logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="75" alt="kotlin logo"  />
+  <img width="20" />
 </div>
 
 ## Estatísticas:
 <div align="center">
   <a href="https://github.com/arthurlpsz">
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlpsz&layout=compact&langs_count=7&theme=holi"/>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurlpsz&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurlpsz&show_icons=true&theme=holi&include_all_commits=true"/>
 </div>
 
 <picture align="center">
