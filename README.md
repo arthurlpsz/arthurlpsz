@@ -111,10 +111,10 @@
 
 <div align="center">
 
-<img height="155em"
+<img height="150em"
 src="https://github-readme-stats.vercel.app/api?username=arthurlpsz&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1020&border_color=5271FF&title_color=6C8CFF&text_color=C8D3F5&icon_color=7B61FF"/>
 
-<img height="155em"
+<img height="150em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlpsz&layout=compact&langs_count=8&bg_color=0B1020&border_color=7B61FF&title_color=8B8CFF&text_color=C8D3F5"/>
 
 </div>
